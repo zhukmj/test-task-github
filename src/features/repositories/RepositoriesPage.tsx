@@ -10,7 +10,7 @@ import { NoData } from '../../components/NoData';
 const Wrapper = styled.div`
   max-width: 760px;
   margin: 0 auto;
-  padding: 120px;
+  padding: 60px;
 `;
 
 interface SearchData {
